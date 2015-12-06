@@ -1,0 +1,1 @@
+Feature extraction project using C# with SURF algorithm. The main purpose is to apply Agile Development on a simple project.
